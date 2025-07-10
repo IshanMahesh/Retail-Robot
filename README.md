@@ -1,4 +1,4 @@
-# Retail-Robot-8camera
+# Retail-Robot
 
 This project simulates a perception system for a retail robot using YOLOv8 and a webcam feed.
 

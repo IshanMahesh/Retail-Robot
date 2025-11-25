@@ -2,8 +2,8 @@
 
 This project simulates a perception/planning/ and task prioritizing system for a retail robot using YOLOv8 and a webcam feed, potentially be simulated in Isaac Sim.
 
-### Authors:
-        Ishan Kharat: 
+### Authors: Quantum Robotics Lab
+        Ishan Kharat: Driver
         Abdul Manan: Navigator
 
 ### Features

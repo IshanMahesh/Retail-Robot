@@ -1,10 +1,14 @@
 # Retail-Robot
 
-This project simulates a perception system for a retail robot using YOLOv8 and a webcam feed.
+This project simulates a perception/planning/ and task prioritizing system for a retail robot using YOLOv8 and a webcam feed, potentially be simulated in Isaac Sim.
+
+### Authors:
+        Ishan Kharat: 
+        Abdul Manan: Navigator
 
 ### Features
 - Real-time object detection using YOLOv8n
-- Task simulation, like detecting all objects and  greeting people
+- Task simulation, like detecting all objects and  spill detection
 - Humanized behavior simulation messages [Assigned]
 
 ### 🛠️ Requirements

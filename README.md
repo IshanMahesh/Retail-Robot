@@ -39,5 +39,5 @@ This project simulates a perception/planning/ and task prioritizing system for a
 
 - Run
 
-        python multi_camera_detection.py
+        python Spill Detector.py
 

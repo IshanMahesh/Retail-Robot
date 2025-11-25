@@ -11,6 +11,12 @@ This project simulates a perception/planning/ and task prioritizing system for a
 - Task simulation, like detecting all objects and  spill detection
 - Humanized behavior simulation messages [Assigned]
 
+
+### Setup and Download
+
+        https://github.com/IshanMahesh/Retail-Robot.git
+        cd Retail-Robot
+
 ### 🛠️ Requirements
 - Python 3.9+
 - Install dependencies:

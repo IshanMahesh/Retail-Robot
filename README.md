@@ -4,20 +4,22 @@ This project simulates a perception system for a retail robot using YOLOv8 and a
 
 ### Features
 - Real-time object detection using YOLOv8n
-- Task simulation like detecting all objects and  greeting people
+- Task simulation, like detecting all objects and  greeting people
 - Humanized behavior simulation messages [Assigned]
 
 ### 🛠️ Requirements
 - Python 3.9+
 - Install dependencies:
 
-        conda create -n retailbot python=3.9 -y
+        conda create -n retailbot python=3.10 -y
         conda activate retailbot
 
         conda install pip -y
-        pip install ultralytics opencv-python
-
-        pip install -r requirements.txt
+  
+        pip install opencv-python numpy matplotlib
+        pip install torch torchvision  # PyTorch
+        pip install ultralytics  # YOLOv8
+        pip install pillow
 
 - Import YOLO
 
